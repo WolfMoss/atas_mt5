@@ -1,0 +1,7 @@
+{
+    "bybit_api_key": "ZYGVbiaZdq8EBIpx3P",
+    "bybit_secret_key": "KYCIjnVypKBxIyptwavCzUvezDR57Y63M0Mq",
+    "bybit_demo_trading": true,
+    "bybit_testnet": false,
+    "log_level": "INFO"
+} 
