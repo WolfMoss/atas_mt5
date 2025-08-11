@@ -1,0 +1,25 @@
+{
+    "mt5_path": "",
+    "server": "",
+    "login": "",
+    "password": "",
+    "log_level": "INFO",
+    "symbol_mapping": {
+        "BTCUSDT@BinanceFutures": {
+            "symbol": "BTCUSDm",
+            "volume_ratio": 1
+        },
+        "COMEX Gold": {
+            "symbol": "XAUUSD",
+            "volume_ratio": 0.01
+        },
+        "COMEX Silver September 2025": {
+            "symbol": "XAGUSD.",
+            "volume_ratio": 0.05
+        },
+        "COMEX Gold December 2025": {
+            "symbol": "XAUUSD.",
+            "volume_ratio": 0.05
+        }
+    }
+}
