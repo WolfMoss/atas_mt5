@@ -5,21 +5,13 @@
     "password": "",
     "log_level": "INFO",
     "symbol_mapping": {
-        "BTCUSDT@BinanceFutures": {
+        "BTCUSDT": {
             "symbol": "BTCUSDm",
             "volume_ratio": 1
         },
-        "COMEX Gold": {
+        "Gold": {
             "symbol": "XAUUSD",
             "volume_ratio": 0.01
-        },
-        "COMEX Silver September 2025": {
-            "symbol": "XAGUSD.",
-            "volume_ratio": 0.05
-        },
-        "COMEX Gold December 2025": {
-            "symbol": "XAUUSD.",
-            "volume_ratio": 0.05
         }
     }
 }
